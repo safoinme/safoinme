@@ -6,22 +6,24 @@
 # <div align="center">I'm Safoine El khabich</div>  
   
 
-<div align="center">Machine Learning Engineer Intern 👨‍💻 While Pursuing a master's degree in Intelligent systems processing  🎓 Passionate about MLOps and Open source 🤖
+#### <div align="center">Machine Learning Engineer Intern 👨‍💻 While Pursuing a master's degree in Intelligent systems processing 🎓 Passionate about MLOps and Open source 🤖
 
 <br></div>  
   
 
-- 🔭 I’m currently working on [ZenML](https://github.com/zenml-io/zenml) 🚀  
+- 🔭 I’m currently working on **MLOps Framework 👉 [ZenML](https://github.com/zenml-io/zenml)**   
   
 
-- 🌱 I’m currently learning Kubernetes 📘  
+- 🌱 I’m currently learning **Kubernetes** 📘  
   
 
-- ❓ Ask me about MLOps, Model Deployment and Computer Vision   
+- 👯 I’m looking to chat/collaborate on **Anything related to ML, MLOps.** 🚀
   
 
-- ⚡ Fun fact: Tidy laptop, messy desktop is my life slogan. 😛  
-  
+- ⚡ Fun fact: **Tidy laptop, messy desktop is my life slogan.** 😛  
+
+
+- 📫 Reach out to me **safoine.ext@zenml.io** or **safoinme@gmail.com** 🙏
 
 <br/>  
 
