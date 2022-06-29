@@ -1,7 +1,8 @@
+<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="50%" />
 </div>  
-  
+-->
 
 # <div align="center">I'm Safoine El khabich</div>  
   
@@ -50,7 +51,7 @@
 
 <br/>  
 
-
+<!--
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -104,7 +105,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=safoinme&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+-->
 
 ## Recent Blog Posts  
  - How can MLOps solve the problem of Production in Machine Learning? [Article](https://medium.com/@safoinme/how-can-mlops-solve-the-problem-of-production-in-machine-learning-b9526acfb2ad)
