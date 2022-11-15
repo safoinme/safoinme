@@ -7,7 +7,7 @@
 # <div align="center">I'm Safoine El khabich</div>  
   
 
-#### <div align="center">Machine Learning Engineer 👨‍💻 While Pursuing a master's degree in Intelligent systems processing 🎓 Passionate about MLOps and Open source 🤖
+#### <div align="center">Machine Learning Engineer 👨‍💻 Passionate about MLOps, Distributed Systems and Open source 🤖
 
 <br></div>  
   
