@@ -12,7 +12,7 @@
 <br></div>  
   
 
-- 🔭 I’m currently working on **MLOps Framework 👉 [ZenML](https://github.com/zenml-io/zenml)**   
+- 🔭 I’m currently working on **MLOps Framework 👉 [ZenML](https://github.com/zenml-io/zenml) Core Team**   
   
 
 - 🌱 I’m currently learning **Kubernetes** 📘  
