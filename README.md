@@ -15,16 +15,16 @@
 - 🔭 I’m currently working on **MLOps Framework 👉 [ZenML](https://github.com/zenml-io/zenml) Core Team**   
   
 
-- 🌱 I’m currently learning **Kubernetes** 📘  
+- 🌱 I’m currently learning **AWS** 📘  
   
 
-- 👯 I’m looking to chat/collaborate on **Anything related to ML, MLOps.** 🚀
+- 👯 I’m looking to chat/collaborate on **Anything related to ML, MLOps, Cloud.** 🚀
   
 
 - ⚡ Fun fact: **Tidy laptop, messy desktop is my life slogan.** 😛  
 
 
-- 📫 Reach out to me **safoine.ext@zenml.io** or **safoinme@gmail.com** 🙏
+- 📫 Reach out to me **safoinme@gmail.com** or **safoine.ext@zenml.io**  🙏
 
 <br/>  
 
